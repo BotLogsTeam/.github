@@ -1,4 +1,4 @@
-![BotLogs](https://via.placeholder.com/800x200/0d1117/5865F2?text=BotLogs)
+![BotLogs](https://raw.githubusercontent.com/BotLogsTeam/.github/refs/heads/main/profile/banner.png)
 
 `BotLogs` houses repositories associated with [BotLogs.dev](https://botlogs.dev) — the AI‑powered error monitoring platform for Discord bots.
 
