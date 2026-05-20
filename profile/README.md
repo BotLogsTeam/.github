@@ -8,8 +8,7 @@ To get started, grab your API key at [botlogs.dev](https://botlogs.dev) and foll
 
 Here are our main repositories:
 
-- [BotLogs SDK](https://github.com/BotLogs/sdk)
-- [BotLogs Dashboard](https://github.com/BotLogs/dashboard)
-- [BotLogs Examples](https://github.com/BotLogs/examples)
+- [BotLogs SDK](https://github.com/BotLogsTeam/sdk)
+- [BotLogs Examples](https://github.com/BotLogsTeam/examples)
 
 (Note that you must be signed into GitHub for the private repositories to appear.)
